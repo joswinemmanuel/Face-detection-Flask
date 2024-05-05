@@ -1,1 +1,1 @@
-<h1> Face Recognition using OpenCV and Flask</h1>
+<h1> Face Detection using OpenCV and Flask</h1>
